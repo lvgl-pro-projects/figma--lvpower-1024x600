@@ -1,0 +1,899 @@
+<globals>
+	<api>
+		<!-- Add <enumdefs> here -->
+	</api>
+
+	<consts>
+		<!-- ────────────────── <lvgl-figma-flow begin="consts"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<color name="const_text_primary_global" value="0x14181B" />
+		<color name="const_text_secondary_global" value="0x8B9197" />
+		<color name="const_text_tertiary_global" value="0xAEB4B9" />
+		<color name="const_surface_canvas_global" value="0xF0F4F6" />
+		<color name="const_surface_card_global" value="0xFBFBFC" />
+		<color name="const_border_global" value="0xE4E6EB" />
+		<color name="const_divider_global" value="0xEDEFF1" />
+		<color name="const_track_global" value="0xE4E7E9" />
+		<color name="const_accent_global" value="0x0FA958" />
+		<color name="const_accent_bright_global" value="0x25E07C" />
+		<color name="const_danger_global" value="0xDC2626" />
+		<color name="const_warn_global" value="0xD97706" />
+		<color name="const_on_accent_global" value="0xFFFFFF" />
+		<px name="const_space_2_global" value="2" />
+		<px name="const_space_4_global" value="4" />
+		<px name="const_space_8_global" value="8" />
+		<px name="const_space_12_global" value="12" />
+		<px name="const_space_16_global" value="16" />
+		<px name="const_space_20_global" value="20" />
+		<px name="const_space_24_global" value="24" />
+		<px name="const_radius_sm_global" value="10" />
+		<px name="const_radius_md_global" value="14" />
+		<px name="const_radius_lg_global" value="18" />
+		<px name="const_radius_xl_global" value="22" />
+		<px name="const_radius_pill_global" value="999" />
+		<color name="const_control_off_global" value="0xCDD2D6" />
+		<color name="const_tint_neutral_global" value="0xEEF1F3" />
+		<color name="const_tint_accent_global" value="0xE7F5EE" />
+		<color name="const_tint_danger_global" value="0xFCECE9" />
+		<color name="const_tint_warn_global" value="0xFBF0E1" />
+		<color name="const_ink_pressed_global" value="0x2C313A" />
+		<color name="const_danger_pressed_global" value="0xB91C1C" />
+		<color name="const_surface_canvas_85_global" value="0xF0F4F6" />
+		<color name="const_baselib_accent_global" value="0x70609C" />
+		<color name="const_baselib_accent_text_global" value="0xFFFFFF" />
+		<int name="const_baselib_radius_global" value="8" />
+		<int name="const_baselib_unit_sm_global" value="4" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="consts"/> ──────────────────── -->
+		<!-- Add <px>, <int>, <color> etc here -->
+	</consts>
+
+	<subjects>
+		<!-- ───────────────── <lvgl-figma-flow begin="subjects"/> ──────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<int name="subject_alert_volume" value="40" />
+		<int name="subject_bay_reserve" value="0" />
+		<int name="subject_cable_thermal" value="42" />
+		<int name="subject_card_ending" value="4291" />
+		<int name="subject_chg_limit" value="80" />
+		<int name="subject_chg_pct" value="21" />
+		<int name="subject_contactless" value="0" />
+		<int name="subject_current_cost" value="4" />
+		<int name="subject_km_added" value="124" />
+		<int name="subject_power_stage" value="58" />
+		<int name="subject_preferences_modal_state" value="0" />
+		<int name="subject_screen_brightness" value="100" />
+		<string name="subject_time" value="11:35" />
+		<int name="subject_wifi" value="0" />
+
+		<!-- Unbound placeholders — synthesized, not designer-defined.
+         Each is the shared fallback for a component element that isn't bound
+         on every placement. Bind it per instance (or on the master) and it
+         disappears on the next export. -->
+		<int name="subject_unbound_card_bay_bar" value="0" />
+		<!-- card_bay › bar -->
+		<int name="subject_unbound_card_bay_value_card_bay_2" value="47" />
+		<!-- card_bay › value_card_bay_2 -->
+		<int name="subject_unbound_field_slider_control_slider" value="0" />
+		<!-- field_slider › control_slider -->
+		<int name="subject_unbound_field_slider_value_field_slider_2" value="70" />
+		<!-- field_slider › value_field_slider_2 -->
+		<int name="subject_unbound_row_toggle_control_switch" value="0" />
+		<!-- row_toggle › control_switch -->
+		<string name="subject_unbound_tile_stat_value_tile_stat_2" value="42.0" />
+		<!-- tile_stat › value_tile_stat_2 -->
+
+		<!-- ────────────────── <lvgl-figma-flow end="subjects"/> ─────────────────── -->
+		<!-- Add <int>, <string>, or <float> subjects here -->
+
+		<int name="subject_language_id" value="0" />
+		<int name="subject_animations" value="0" />
+	</subjects>
+
+	<images>
+		<!-- ────────────────── <lvgl-figma-flow begin="images"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<data name="image_qr_receipt_115x115" src_path="images/image_qr_receipt_115x115.png" color_format="rgb565a8" />
+		<data name="image_qr_receipt_64x64" src_path="images/image_qr_receipt_64x64.png" color_format="rgb565a8" />
+		<data name="image_plug_large" src_path="images/image_plug_large.png" color_format="rgb565a8" />
+		<data name="image_back_byd_1039x365" src_path="images/image_back_byd_1039x365.png" color_format="rgb565a8" />
+		<data name="image_back_byd_755x265" src_path="images/image_back_byd_755x265.png" color_format="rgb565a8" />
+		<data name="image_back_byd_425x149" src_path="images/image_back_byd_425x149.png" color_format="rgb565a8" />
+		<data name="image_4" src_path="images/image_4.png" color_format="rgb565a8" />
+		<data name="image_front_byd" src_path="images/front_byd.png" color_format="rgb565a8" />
+		<data
+			name="image_icon_supercharge_green_24419"
+			src_path="images/icon_supercharge_green_24419.png"
+			color_format="rgb565a8"
+		/>
+		<data name="image_icon_zap_19913" src_path="images/icon_zap_19913.png" color_format="rgb565a8" />
+		<data name="image_icon_plug_19916" src_path="images/icon_plug_19916.png" color_format="rgb565a8" />
+		<data name="image_icon_supercharge" src_path="images/icon_supercharge.png" color_format="rgb565a8" />
+		<data name="image_icon_nfc_19919" src_path="images/icon_nfc_19919.png" color_format="rgb565a8" />
+		<data name="image_vec_263_32" src_path="images/vec_263_32.png" color_format="rgb565a8" />
+		<data
+			name="image_icon_diagnostic_323653"
+			src_path="images/icon_diagnostic_323653.png"
+			color_format="rgb565a8"
+		/>
+		<data name="image_icon_settings_1988" src_path="images/icon_settings_1988.png" color_format="rgb565a8" />
+		<data name="image_vec_263_263" src_path="images/vec_263_263.png" color_format="rgb565a8" />
+		<data name="image_icon_back_323661" src_path="images/icon_back_323661.png" color_format="rgb565a8" />
+		<data name="image_icon_close_30435" src_path="images/icon_close_30435.png" color_format="rgb565a8" />
+		<data name="image_vec_270_4" src_path="images/vec_270_4.png" color_format="rgb565a8" />
+		<data name="image_vec_270_5" src_path="images/vec_270_5.png" color_format="rgb565a8" />
+		<data name="image_vec_270_6" src_path="images/vec_270_6.png" color_format="rgb565a8" />
+		<data name="image_vec_270_7" src_path="images/vec_270_7.png" color_format="rgb565a8" />
+		<data name="image_vec_270_8" src_path="images/vec_270_8.png" color_format="rgb565a8" />
+		<data name="image_lucide_nfc" src_path="images/lucide_nfc.png" color_format="rgb565a8" />
+		<data name="image_vec_273_184" src_path="images/vec_273_184.png" color_format="rgb565a8" />
+		<data name="image_vec_273_185" src_path="images/vec_273_185.png" color_format="rgb565a8" />
+		<data name="image_vec_273_186" src_path="images/vec_273_186.png" color_format="rgb565a8" />
+		<data name="image_vec_328_444" src_path="images/vec_328_444.png" color_format="rgb565a8" />
+
+		<data name="img_wheel_base" src_path="images/img_wheel_base.png" color_format="rgb565a8" />
+		<data name="img_wheel_rim" src_path="images/img_wheel_rim.png" color_format="rgb565a8" />
+
+		<data name="img_wheel_base_98" src_path="images/img_wheel_base_98.png" color_format="rgb565a8" />
+		<data name="img_wheel_rim_98" src_path="images/img_wheel_rim_98.png" color_format="rgb565a8" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="images"/> ──────────────────── -->
+		<!-- Add <file> or <data> tags here -->
+	</images>
+
+	<fonts>
+		<!-- ─────────────────── <lvgl-figma-flow begin="fonts"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<bin
+			name="font_gabarito_semibold_32"
+			size="32"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_22"
+			size="22"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_15"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_15"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_13"
+			size="13"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_12"
+			size="12"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_11"
+			size="11"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_34"
+			size="34"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0x20A0-0x20CF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_26"
+			size="26"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0x20A0-0x20CF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_bold_132"
+			size="132"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_44"
+			size="44"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_18"
+			size="18"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_24"
+			size="24"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_20"
+			size="20"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_15"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_13"
+			size="13"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_12"
+			size="12"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_11"
+			size="11"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_bold_86"
+			size="86"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_semi_bold_41"
+			size="41"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_semi_bold_38"
+			size="38"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_semi_bold_30"
+			size="30"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_semi_bold_13"
+			size="13"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_bold_46"
+			size="46"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_regular_20"
+			size="20"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_medium_15"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Medium.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_semi_bold_15"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_bold_14"
+			size="14"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_semi_bold_12"
+			size="12"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_semi_bold_21"
+			size="21"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_regular_15"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_medium_12"
+			size="12"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Medium.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_bold_11"
+			size="11"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_semi_bold_10"
+			size="10"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_inter_regular_12_5"
+			size="13"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_19_200000762939453"
+			size="19"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_43_52000427246094"
+			size="44"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0x20A0-0x20CF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_19_200000762939453"
+			size="19"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_15_360000610351562"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_28_160001754760742"
+			size="28"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_16_64000129699707"
+			size="17"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_19_200000762939453"
+			size="19"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_15_360000610351562"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_24_57600212097168"
+			size="25"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_24_57600212097168"
+			size="25"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_21_299203872680664"
+			size="21"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_36_044803619384766"
+			size="36"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_40_96000289916992"
+			size="41"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_33_28000259399414"
+			size="33"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0x20A0-0x20CF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_23_040000915527344"
+			size="23"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_40_959999084472656"
+			size="41"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_19_19999885559082"
+			size="19"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_19_19999885559082"
+			size="19"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_15_359999656677246"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_33_279998779296875"
+			size="33"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F, 0x20A0-0x20CF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_28_15999984741211"
+			size="28"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_43_52000045776367"
+			size="44"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_14_079999923706055"
+			size="14"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_24_576000213623047"
+			size="25"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_24_576000213623047"
+			size="25"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_21_29920196533203"
+			size="21"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_36_0447998046875"
+			size="36"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_bold_168_95999145507812"
+			size="169"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_56_31999969482422"
+			size="56"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_23_03999900817871"
+			size="23"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_30_719999313354492"
+			size="31"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F, 0x20A0-0x20CF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_16_639999389648438"
+			size="17"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_regular_14_079999923706055"
+			size="14"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Regular.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_16_639999389648438"
+			size="17"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_semibold_25_599998474121094"
+			size="26"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_19_19999885559082"
+			size="19"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_15_359999656677246"
+			size="15"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+		<bin
+			name="font_gabarito_medium_16_64000129699707"
+			size="17"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Gabarito-Medium.ttf"
+			range="0x20-0x7F"
+			symbols="·ÁÃÄÇÈÉÍÓÖÚÜßàáâãäçèéêíîñóõöúûüŐő–•"
+		/>
+
+		<!-- ──────────────────── <lvgl-figma-flow end="fonts"/> ──────────────────── -->
+		<!-- Add <bin> , <tiny_ttf>, <freetype> tags here -->
+	</fonts>
+
+	<styles>
+		<!-- ────────────────── <lvgl-figma-flow begin="styles"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<style name="style_heading_global" text_font="font_gabarito_semibold_32" />
+		<style name="style_font_title_global" text_font="font_gabarito_semibold_22" />
+		<style name="style_body_global" text_font="font_gabarito_regular_15" />
+		<style name="style_body_strong_global" text_font="font_gabarito_semibold_15" />
+		<style name="style_chip_global" text_font="font_gabarito_medium_13" />
+		<style name="style_caption_global" text_font="font_gabarito_regular_12" />
+		<style name="style_overline_global" text_font="font_gabarito_medium_11" text_letter_space="1" />
+		<style name="style_stat_lg_global" text_font="font_gabarito_semibold_34" text_letter_space="-1" />
+		<style name="style_stat_md_global" text_font="font_gabarito_semibold_26" />
+		<style name="style_hero_global" text_font="font_gabarito_bold_132" text_letter_space="-5" />
+		<style name="style_hero_unit_global" text_font="font_gabarito_medium_44" text_letter_space="-1" />
+		<style name="style_font_subtitle_global" text_font="font_gabarito_semibold_18" />
+		<style name="style_stat_sm_global" text_font="font_gabarito_semibold_24" />
+		<style name="style_stat_xs_global" text_font="font_gabarito_semibold_20" />
+		<style name="style_font_label_global" text_font="font_gabarito_medium_15" />
+		<style name="style_font_meta_global" text_font="font_gabarito_regular_13" />
+		<style name="style_badge_global" text_font="font_gabarito_medium_12" />
+		<style name="style_micro_global" text_font="font_gabarito_regular_11" />
+		<style
+			name="style_shadow_card_global"
+			shadow_width="24"
+			shadow_offset_y="8"
+			shadow_spread="-6"
+			shadow_color="0x141C22"
+			shadow_opa="26"
+		/>
+		<style
+			name="style_shadow_modal_global"
+			shadow_width="50"
+			shadow_offset_y="20"
+			shadow_spread="-12"
+			shadow_color="0x05070A"
+			shadow_opa="102"
+		/>
+		<style
+			name="style_shadow_knob_global"
+			shadow_width="6"
+			shadow_offset_y="2"
+			shadow_spread="-1"
+			shadow_color="0x141C22"
+			shadow_opa="46"
+		/>
+		<style name="style_screen_base_global" border_width="0" radius="0" shadow_width="0" shadow_opa="0" />
+		<style name="style_bar_b_danger_global" bg_color="#const_danger_global" />
+		<style name="style_bar_b_green_global" bg_color="#const_accent_global" />
+		<style name="style_bar_b_warn_global" bg_color="#const_warn_global" />
+		<style name="style_chip_card_dot_green_global" bg_color="#const_accent_global" bg_opa="255" />
+		<style name="style_chip_card_dot_grey_global" bg_color="#const_text_secondary_global" />
+		<style name="style_chip_card_dot_red_global" bg_color="#const_danger_global" bg_opa="255" />
+		<style
+			name="style_chip_card_green_global"
+			width="92"
+			pad_left="12"
+			pad_column="8"
+			bg_color="#const_tint_accent_global"
+			bg_opa="255"
+		/>
+		<style
+			name="style_chip_card_grey_global"
+			width="content"
+			pad_left="8"
+			pad_column="4"
+			bg_color="#const_tint_neutral_global"
+		/>
+		<style name="style_chip_card_label_green_global" text_color="#const_accent_global" />
+		<style name="style_chip_card_label_grey_global" text_color="#const_text_secondary_global" />
+		<style name="style_chip_card_label_red_global" text_color="#const_danger_global" />
+		<style
+			name="style_chip_card_red_global"
+			width="content"
+			pad_left="8"
+			pad_column="4"
+			bg_color="#const_tint_danger_global"
+			bg_opa="255"
+		/>
+		<style name="style_chip_header_green_global" bg_color="#const_accent_global" />
+		<style name="style_chip_header_grey_global" bg_color="#const_text_secondary_global" bg_opa="255" />
+		<style name="style_chip_header_orange_global" bg_color="#const_warn_global" bg_opa="255" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="styles"/> ──────────────────── -->
+		<!-- Add <style> tags here -->
+	</styles>
+</globals>

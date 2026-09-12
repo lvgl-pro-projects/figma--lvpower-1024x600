@@ -1,0 +1,197 @@
+[
+  {
+    "nodeId": "244:19",
+    "nodeName": "Icon/supercharge/green",
+    "name": "image_icon_supercharge_green_24419",
+    "svgPath": "vectors/244_19.svg",
+    "width": 23,
+    "height": 24,
+    "aliasNodeIds": [
+      "305:34",
+      "248:36",
+      "248:18",
+      "248:25"
+    ],
+    "pngPath": "images/icon_supercharge_green_24419.png"
+  },
+  {
+    "nodeId": "199:13",
+    "nodeName": "Icon/zap",
+    "name": "image_icon_zap_19913",
+    "svgPath": "vectors/199_13.svg",
+    "width": 24,
+    "height": 24,
+    "pngPath": "images/icon_zap_19913.png"
+  },
+  {
+    "nodeId": "199:16",
+    "nodeName": "Icon/plug",
+    "name": "image_icon_plug_19916",
+    "svgPath": "vectors/199_16.svg",
+    "width": 24,
+    "height": 24,
+    "pngPath": "images/icon_plug_19916.png"
+  },
+  {
+    "nodeId": "199:10",
+    "nodeName": "Icon/supercharge",
+    "name": "image_icon_supercharge",
+    "svgPath": "vectors/199_10.svg",
+    "width": 23,
+    "height": 24,
+    "pngPath": "images/icon_supercharge.png"
+  },
+  {
+    "nodeId": "199:19",
+    "nodeName": "Icon/nfc",
+    "name": "image_icon_nfc_19919",
+    "svgPath": "vectors/199_19.svg",
+    "width": 24,
+    "height": 24,
+    "pngPath": "images/icon_nfc_19919.png"
+  },
+  {
+    "nodeId": "263:32",
+    "nodeName": "Vector",
+    "name": "image_vec_263_32",
+    "svgPath": "vectors/263_32.svg",
+    "width": 11,
+    "height": 9,
+    "pngPath": "images/vec_263_32.png"
+  },
+  {
+    "nodeId": "323:653",
+    "nodeName": "icon/diagnostic",
+    "name": "image_icon_diagnostic_323653",
+    "svgPath": "vectors/323_653.svg",
+    "width": 24,
+    "height": 24,
+    "pngPath": "images/icon_diagnostic_323653.png"
+  },
+  {
+    "nodeId": "198:8",
+    "nodeName": "Icon/settings",
+    "name": "image_icon_settings_1988",
+    "svgPath": "vectors/198_8.svg",
+    "width": 24,
+    "height": 24,
+    "pngPath": "images/icon_settings_1988.png"
+  },
+  {
+    "nodeId": "263:263",
+    "nodeName": "Vector",
+    "name": "image_vec_263_263",
+    "svgPath": "vectors/263_263.svg",
+    "width": 10,
+    "height": 5,
+    "pngPath": "images/vec_263_263.png"
+  },
+  {
+    "nodeId": "323:661",
+    "nodeName": "icon/back",
+    "name": "image_icon_back_323661",
+    "svgPath": "vectors/323_661.svg",
+    "width": 24,
+    "height": 24,
+    "pngPath": "images/icon_back_323661.png"
+  },
+  {
+    "nodeId": "304:35",
+    "nodeName": "Icon/close",
+    "name": "image_icon_close_30435",
+    "svgPath": "vectors/304_35.svg",
+    "width": 24,
+    "height": 24,
+    "pngPath": "images/icon_close_30435.png"
+  },
+  {
+    "nodeId": "270:4",
+    "nodeName": "Vector",
+    "name": "image_vec_270_4",
+    "svgPath": "vectors/270_4.svg",
+    "width": 127,
+    "height": 142,
+    "pngPath": "images/vec_270_4.png"
+  },
+  {
+    "nodeId": "270:5",
+    "nodeName": "Vector",
+    "name": "image_vec_270_5",
+    "svgPath": "vectors/270_5.svg",
+    "width": 121,
+    "height": 142,
+    "pngPath": "images/vec_270_5.png"
+  },
+  {
+    "nodeId": "270:6",
+    "nodeName": "Vector",
+    "name": "image_vec_270_6",
+    "svgPath": "vectors/270_6.svg",
+    "width": 132,
+    "height": 142,
+    "pngPath": "images/vec_270_6.png"
+  },
+  {
+    "nodeId": "270:7",
+    "nodeName": "Vector",
+    "name": "image_vec_270_7",
+    "svgPath": "vectors/270_7.svg",
+    "width": 90,
+    "height": 142,
+    "pngPath": "images/vec_270_7.png"
+  },
+  {
+    "nodeId": "270:8",
+    "nodeName": "Vector",
+    "name": "image_vec_270_8",
+    "svgPath": "vectors/270_8.svg",
+    "width": 107,
+    "height": 142,
+    "pngPath": "images/vec_270_8.png"
+  },
+  {
+    "nodeId": "270:23",
+    "nodeName": "lucide/nfc",
+    "name": "image_lucide_nfc",
+    "svgPath": "vectors/270_23.svg",
+    "width": 10,
+    "height": 15,
+    "pngPath": "images/lucide_nfc.png"
+  },
+  {
+    "nodeId": "273:184",
+    "nodeName": "Vector",
+    "name": "image_vec_273_184",
+    "svgPath": "vectors/273_184.svg",
+    "width": 18,
+    "height": 20,
+    "pngPath": "images/vec_273_184.png"
+  },
+  {
+    "nodeId": "273:185",
+    "nodeName": "Vector 1",
+    "name": "image_vec_273_185",
+    "svgPath": "vectors/273_185.svg",
+    "width": 12,
+    "height": 12,
+    "pngPath": "images/vec_273_185.png"
+  },
+  {
+    "nodeId": "273:186",
+    "nodeName": "Vector 2",
+    "name": "image_vec_273_186",
+    "svgPath": "vectors/273_186.svg",
+    "width": 12,
+    "height": 12,
+    "pngPath": "images/vec_273_186.png"
+  },
+  {
+    "nodeId": "328:444",
+    "nodeName": "Vector",
+    "name": "image_vec_328_444",
+    "svgPath": "vectors/328_444.svg",
+    "width": 42,
+    "height": 44,
+    "pngPath": "images/vec_328_444.png"
+  }
+]

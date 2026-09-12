@@ -1,0 +1,82 @@
+[
+  {
+    "hash": "d27b36e409353a0dc778db3454866150134d7463",
+    "name": "image_qr_receipt_115x115",
+    "path": "images/image_qr_receipt_115x115.png",
+    "format": "PNG",
+    "colorFormat": "rgb565a8",
+    "byteLength": 5610,
+    "width": 115,
+    "height": 115
+  },
+  {
+    "hash": "d27b36e409353a0dc778db3454866150134d7463",
+    "name": "image_qr_receipt_64x64",
+    "path": "images/image_qr_receipt_64x64.png",
+    "format": "PNG",
+    "colorFormat": "rgb565a8",
+    "byteLength": 3862,
+    "width": 64,
+    "height": 64
+  },
+  {
+    "hash": "6713e23c38f939632fef24cd952f6db353195bee",
+    "name": "image_plug_large",
+    "path": "images/image_plug_large.png",
+    "format": "PNG",
+    "colorFormat": "rgb565a8",
+    "byteLength": 224924,
+    "width": 460,
+    "height": 603
+  },
+  {
+    "hash": "3baf20ba38993bd9ba69bc77e2c8a9dfb84bdcaf",
+    "name": "image_back_byd_1039x365",
+    "path": "images/image_back_byd_1039x365.png",
+    "format": "PNG",
+    "colorFormat": "rgb565a8",
+    "byteLength": 426525,
+    "width": 1039,
+    "height": 365
+  },
+  {
+    "hash": "3baf20ba38993bd9ba69bc77e2c8a9dfb84bdcaf",
+    "name": "image_back_byd_755x265",
+    "path": "images/image_back_byd_755x265.png",
+    "format": "PNG",
+    "colorFormat": "rgb565a8",
+    "byteLength": 236933,
+    "width": 755,
+    "height": 265
+  },
+  {
+    "hash": "3baf20ba38993bd9ba69bc77e2c8a9dfb84bdcaf",
+    "name": "image_back_byd_425x149",
+    "path": "images/image_back_byd_425x149.png",
+    "format": "PNG",
+    "colorFormat": "rgb565a8",
+    "byteLength": 83698,
+    "width": 425,
+    "height": 149
+  },
+  {
+    "hash": "43e892522e4d7cd8b9640d32b817ce5d99b2fd18",
+    "name": "image_4",
+    "path": "images/image_4.png",
+    "format": "PNG",
+    "colorFormat": "rgb565a8",
+    "byteLength": 1141,
+    "width": 36,
+    "height": 12
+  },
+  {
+    "hash": "9ffba305f96ff9ceb401fac45260a18d40739e28",
+    "name": "image_front_byd",
+    "path": "images/front_byd.png",
+    "format": "PNG",
+    "colorFormat": "rgb565a8",
+    "byteLength": 240964,
+    "width": 755,
+    "height": 265
+  }
+]

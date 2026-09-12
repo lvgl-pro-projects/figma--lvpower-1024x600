@@ -1,0 +1,21 @@
+{
+  "enabled": false,
+  "title": "Controls",
+  "columns": 3,
+  "maxScale": 1,
+  "memory": {
+    "limitKiB": 1024,
+    "openByDefault": false
+  },
+  "buttonRadius": 4,
+  "hardwareFrame": {
+    "enabled": false,
+    "image": null,
+    "ui": {
+      "x": 198,
+      "y": 138
+    }
+  },
+  "controlsOverlay": [ ],
+  "buttons": []
+}

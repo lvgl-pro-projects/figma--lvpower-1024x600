@@ -1,0 +1,84 @@
+<translations languages="en pt de es fr hu">
+	<translation tag="id" en="en" pt="pt" de="de" es="es" fr="fr" hu="hu"  />
+	<translation tag="locale" en="English" pt="Portuguese" de="German" es="Spanish" fr="French" hu="Hungarian"  />
+	<translation tag="lvpower" en="LVPOWER" pt="LVPOWER" de="LVPOWER" es="LVPOWER" fr="LVPOWER" hu="LVPOWER"  />
+	<translation tag="station" en="Station" pt="Estação" de="Station" es="Estación" fr="Gare" hu="Állomás"  />
+	<translation tag="status" en="Status" pt="Status" de="Status" es="Estado" fr="Statut" hu="Állapot"  />
+	<translation tag="plugin_start" en="Plug in, or scan to start" pt="Conecte ou faça uma busca para iniciar." de="Anschließen oder scannen, um zu starten" es="Conéctalo o escanea para comenzar." fr="Branchez ou scannez pour démarrer" hu="Csatlakoztasd, vagy szkenneld be a kezdéshez"  />
+	<translation tag="or_pair" en="or pair with" pt="ou emparelhar com" de="oder kombinieren Sie mit" es="o combinar con" fr="ou associer à" hu="vagy párosítsa"  />
+	<translation tag="ready" en="Ready" pt="Preparar" de="Bereit" es="Listo" fr="Prêt" hu="Kész"  />
+	<translation tag="tap_or_scan" en="Tap or Scan" pt="Toque ou escaneie" de="Tippen oder Scannen" es="Toca o escanea" fr="Touchez ou scannez" hu="Koppintson vagy szkenneljen"  />
+	<translation tag="supercharge" en="SUPERCHARGE" pt="SUPERCARREGAMENTO" de="SUPERLADEN" es="SUPERCARGA" fr="SUPERCHARGE" hu="SZUPERTÖLTÉS"  />
+	<translation tag="fast" en="FAST" pt="RÁPIDO" de="SCHNELL" es="RÁPIDO" fr="RAPIDE" hu="GYORS"  />
+	<translation tag="basic" en="BASIC" pt="BÁSICO" de="BASIC" es="BÁSICO" fr="BASIQUE" hu="ALAPVETŐ"  />
+	<translation tag="connected" en="Connected" pt="Conectado" de="Verbunden" es="Conectado" fr="Connecté" hu="Csatlakoztatva"  />
+	<translation tag="start_charging" en="Start charging" pt="Comece a carregar" de="Ladevorgang starten" es="Comienza a cargar" fr="Commencez la charge" hu="Töltés megkezdése"  />
+	<translation tag="tap_card" en="Tap your card on the reader" pt="Aproxime seu cartão do leitor." de="Halten Sie Ihre Karte an das Lesegerät." es="Acerque su tarjeta al lector." fr="Approchez votre carte du lecteur" hu="Érintse a kártyáját az olvasóhoz"  />
+	<translation tag="accept_terms" en="I accept the terms" pt="Aceito os termos." de="Ich akzeptiere die Bedingungen." es="Acepto los términos" fr="J'accepte les conditions" hu="Elfogadom a feltételeket"  />
+	<translation tag="cable_connected" en="Cable connected" pt="Cabo conectado" de="Kabel angeschlossen" es="Cable conectado" fr="Câble connecté" hu="Kábel csatlakoztatva"  />
+	<translation tag="ccs_150" en="CCS · up to 150 kW" pt="CCS · até 150 kW" de="CCS · bis zu 150 kW" es="CCS · hasta 150 kW" fr="CCS · jusqu'à 150 kW" hu="CCS · akár 150 kW-ig"  />
+	<translation tag="authorize_payment" en="Authorise payment" pt="Autorizar pagamento" de="Zahlung autorisieren" es="Autorizar pago" fr="Autoriser le paiement" hu="Fizetés engedélyezése"  />
+	<translation tag="charge_150" en="~150 km in 20 min" pt="Aproximadamente 150 km em 20 minutos" de="~150 km in 20 Minuten" es="~150 km en 20 min" fr="~150 km en 20 min" hu="~150 km 20 perc alatt"  />
+	<translation tag="charge_80" en="~80 km in 20 min" pt="~80 km em 20 minutos" de="~80 km in 20 Minuten" es="~80 km en 20 min" fr="~80 km en 20 min" hu="~80 km 20 perc alatt"  />
+	<translation tag="charge_overnight" en="Overnight charge" pt="Cobrança noturna" de="Übernachtgebühr" es="cargo por pernoctación" fr="Frais de nuit" hu="Éjszakai töltés"  />
+	<translation tag="payment" en="PAYMENT" pt="PAGAMENTO" de="ZAHLUNG" es="PAGO" fr="PAIEMENT" hu="FIZETÉS"  />
+	<translation tag="welcome_back" en="Welcome back" pt="bem vindo de volta" de="Willkommen zurück" es="Bienvenido de nuevo" fr="Content de te revoir" hu="Üdv ismét"  />
+	<translation tag="card_ending" en="Card ending in ····" pt="Cartão terminando em ····" de="Karte endet mit ····" es="Tarjeta que termina en ····" fr="Carte se terminant par ····" hu="····-ra végződő kártya"  />
+	<translation tag="time_left" en="1h 10m left · ready by 12:45" pt="1h 10m restantes · pronto às 12:45" de="Noch 1 Stunde 10 Minuten · fertig um 12:45 Uhr" es="Quedan 1 hora y 10 minutos · Listo a las 12:45" fr="Il reste 1 h 10 min · Prêt à 12 h 45" hu="1 óra 10 perc van hátra · 12:45-re kész"  />
+	<translation tag="supercharge_80" en="Supercharging to 80%" pt="Supercarregando para 80%" de="Aufladung auf 80 %" es="Supercarga al 80%" fr="Supercharge à 80 %" hu="80%-os feltöltés"  />
+	<translation tag="stop_charging" en="Stop charging" pt="Interrompa o carregamento" de="Ladevorgang einstellen" es="Deja de cobrar" fr="Arrêtez la facturation" hu="Töltés leállítása"  />
+	<translation tag="power" en="Power" pt="Poder" de="Leistung" es="Fuerza" fr="Pouvoir" hu="Hatalom"  />
+	<translation tag="energy" en="Energy" pt="Energia" de="Energie" es="Energía" fr="Énergie" hu="Energia"  />
+	<translation tag="range_added" en="Range added" pt="Alcance adicionado" de="Reichweite hinzugefügt" es="Gama añadida" fr="Portée ajoutée" hu="Tartomány hozzáadva"  />
+	<translation tag="cost_so_far" en="Cost so far" pt="Custo até o momento" de="Bisherige Kosten" es="Costo hasta ahora" fr="Coût jusqu'à présent" hu="Eddigi költség"  />
+	<translation tag="total_cost" en="Total cost" pt="Custo total" de="Gesamtkosten" es="Costo total" fr="Coût total" hu="Teljes költség"  />
+	<translation tag="duration" en="Duration" pt="Duração" de="Dauer" es="Duración" fr="Durée" hu="Időtartam"  />
+	<translation tag="energy_delivered" en="Energy delivered" pt="Energia fornecida" de="Energie geliefert" es="Energía suministrada" fr="Énergie fournie" hu="Leadott energia"  />
+	<translation tag="turbo_complete" en="Turbocharge complete" pt="Carregamento rápido concluído" de="Schnellladen abgeschlossen" es="Carga rápida completada" fr="Recharge rapide terminée" hu="Gyorstöltés befejeződött"  />
+	<translation tag="scan_receipt" en="Scan for receipt" pt="Escaneie o código QR para obter o recibo." de="Scannen Sie den Beleg" es="Escanee para obtener el recibo." fr="Numérisez pour recevoir" hu="Szkennelés a nyugtáért"  />
+	<translation tag="unplug_finish" en="Unplug to finish" pt="Desconecte para finalizar" de="Zum Beenden vom Stromnetz trennen." es="Desconectar para terminar" fr="Débranchez pour terminer" hu="Húzza ki a konnektorból a befejezéshez"  />
+	<translation tag="charged_to_80" en="Aurex EX40 · charged to 80%" pt="Aurex EX40 · carregado até 80%" de="Aurex EX40 · auf 80 % geladen" es="Aurex EX40 · cargado al 80%" fr="Aurex EX40 · chargé à 80 %" hu="Aurex EX40 · 80%-ra feltöltve"  />
+	<translation tag="sent_email" en="Also sent to lvgl@lvgl.io" pt="Também enviado para lvgl@lvgl.io" de="Ebenfalls gesendet an lvgl@lvgl.io" es="También se envió a lvgl@lvgl.io" fr="Également envoyé à lvgl@lvgl.io" hu="Elküldve a lvgl@lvgl.io címre is"  />
+	<translation tag="asset_tag" en="ASSET TAG" pt="ETIQUETA DE ATIVO" de="ASSET-TAG" es="ETIQUETA DE ACTIVOS" fr="ÉTIQUETTE D'ACTIF" hu="ESZKÖZCÍMKE"  />
+	<translation tag="diagnostics" en="Diagnostics" pt="Diagnóstico" de="Diagnostik" es="Diagnóstico" fr="Diagnostic" hu="Diagnosztika"  />
+	<translation tag="station_technician" en="Station L-04 · Technician session" pt="Estação L-04 · Sessão técnica" de="Station L-04 · Technikersitzung" es="Estación L-04 · Sesión técnica" fr="Station L-04 · Session technique" hu="L-04 állomás · Technikusi foglalkozás"  />
+	<translation tag="safety_interlocks" en="SAFETY INTERLOCKS" pt="INTERTRAVAMENTOS DE SEGURANÇA" de="SICHERHEITSVERRIEGELUNGEN" es="ENCLAVAMIENTOS DE SEGURIDAD" fr="VERROUILLAGES DE SÉCURITÉ" hu="BIZTONSÁGI RETESZEK"  />
+	<translation tag="thermals" en="THERMALS" pt="TÉRMICOS" de="Wärmelampen" es="TÉRMICAS" fr="THERMIQUES" hu="TERMALOK"  />
+	<translation tag="emergency_stop" en="Emergency stop released" pt="Parada de emergência liberada" de="Not-Aus-Schalter gelöst" es="Se ha liberado la parada de emergencia." fr="Arrêt d'urgence relâché" hu="Vészleállító kioldva"  />
+	<translation tag="enclosure_panel" en="Enclosure panel closed" pt="Painel de fechamento" de="Gehäuseklappe geschlossen" es="Panel de la carcasa cerrado" fr="Panneau du boîtier fermé" hu="Zárt burkolatpanel"  />
+	<translation tag="ground_fault" en="Ground-fault monitor clear" pt="Monitor de falha de aterramento desativado" de="Erdschlussüberwachung gelöscht" es="Monitor de falla a tierra vacío" fr="Surveillance des défauts à la terre claire" hu="Földzárlatvédelmi monitor törlése"  />
+	<translation tag="cable_lock" en="Cable lock engaged" pt="Cadeado de cabo acionado" de="Kabelschloss eingerastet" es="Bloqueo de cable activado" fr="Verrou de câble activé" hu="Kábelzár be van kapcsolva"  />
+	<translation tag="ok" en="OK" pt="OK" de="OK" es="DE ACUERDO" fr="D'ACCORD" hu="RENDBEN"  />
+	<translation tag="pending" en="Pending" pt="Pendente" de="Ausstehend" es="Pendiente" fr="En attente" hu="Függőben levő"  />
+	<translation tag="cable" en="Cable" pt="Cabo" de="Kabel" es="Cable" fr="Câble" hu="Kábel"  />
+	<translation tag="power_stage" en="Power stage" pt="Estágio de potência" de="Leistungsstufe" es="Etapa de potencia" fr="Phase de puissance" hu="Teljesítményfokozat"  />
+	<translation tag="service_note" en="SERVICE NOTE" pt="NOTA DE SERVIÇO" de="Servicehinweis" es="NOTA DE SERVICIO" fr="NOTE DE SERVICE" hu="SZERVIZMEGJEGYZÉS"  />
+	<translation tag="service_replace" en="Replaced RFID reader module on bay L-04. Connector lock intermittent - monitoring. Next PM due 2026-08-15." pt="Substituído o módulo leitor RFID no compartimento L-04. Trava do conector intermitente - em monitoramento. Próxima manutenção preventiva prevista para 15/08/2026." de="RFID-Lesegerät in Steckplatz L-04 ausgetauscht. Steckerverriegelung funktioniert zeitweise nicht – wird überwacht. Nächste Wartung fällig am 15.08.2026." es="Se sustituyó el módulo lector RFID en la bahía L-04. El bloqueo del conector presenta fallos intermitentes; se está monitorizando. El próximo mantenimiento preventivo está previsto para el 15 de agosto de 2026." fr="Module lecteur RFID remplacé dans la baie L-04. Verrouillage intermittent du connecteur - surveillance. Prochaine maintenance préventive prévue le 15/08/2026." hu="RFID olvasó modul csere az L-04-es rekeszben. Csatlakozózár szakaszos - felügyelet. Következő délutáni beküldési határidő: 2026-08-15."  />
+	<translation tag="station_settings" en="Station settings" pt="Configurações da estação" de="Stationseinstellungen" es="Configuración de la estación" fr="Paramètres de la station" hu="Állomásbeállítások"  />
+	<translation tag="station_bays" en="Station L-04 · 6 bays" pt="Estação L-04 · 6 baias" de="Bahnhof L-04 · 6 Stellplätze" es="Estación L-04 · 6 bahías" fr="Station L-04 · 6 travées" hu="L-04 állomás · 6 állás"  />
+	<translation tag="display_sound" en="DISPLAY &amp; SOUND" pt="EXIBIÇÃO E SOM" de="ANZEIGE &amp; TON" es="PANTALLA Y SONIDO" fr="AFFICHAGE ET SON" hu="KIJELZŐ ÉS HANG"  />
+	<translation tag="screen_brightness" en="Screen brightness" pt="Brilho da tela" de="Bildschirmhelligkeit" es="brillo de la pantalla" fr="Luminosité de l'écran" hu="Képernyő fényereje"  />
+	<translation tag="alert_volume" en="Alert volume" pt="Volume de alerta" de="Alarmlautstärke" es="Volumen de alerta" fr="Volume d'alerte" hu="Riasztás hangereje"  />
+	<translation tag="animations" en="Animations" pt="Animações" de="Animationen" es="Animaciones" fr="Animations" hu="Animációk"  />
+	<translation tag="enable_transitions" en="Enable transitions" pt="Ativar transições" de="Übergänge aktivieren" es="Habilitar transiciones" fr="Activer les transitions" hu="Átmenetek engedélyezése"  />
+	<translation tag="language" en="LANGUAGE" pt="LINGUAGEM" de="SPRACHE" es="IDIOMA" fr="LANGUE" hu="NYELV"  />
+	<translation tag="network_access" en="NETWORK &amp; ACCESS" pt="REDE E ACESSO" de="NETZWERK &amp; ZUGANG" es="RED Y ACCESO" fr="RÉSEAU ET ACCÈS" hu="HÁLÓZAT ÉS HOZZÁFÉRÉS"  />
+	<translation tag="wifi" en="Wi-Fi" pt="Wi-fi" de="W-lan" es="Wi-Fi" fr="Wi-Fi" hu="Wi-Fi"  />
+	<translation tag="scan_docs" en="Scan for maintenance docs" pt="Digitalize para obter documentos de manutenção." de="Nach Wartungsdokumenten suchen" es="Escanee en busca de documentos de mantenimiento." fr="Rechercher les documents de maintenance" hu="Karbantartási dokumentációk beolvasása"  />
+	<translation tag="wifi_state" en="Levland-Ops · connected" pt="Levland-Ops · conectado" de="Levland-Ops · verbunden" es="Levland-Ops · conectado" fr="Levland-Ops · connecté" hu="Levland-Ops · csatlakoztatva"  />
+	<translation tag="contactless_payments" en="Contactless payments" pt="pagamentos sem contato" de="Kontaktloses Bezahlen" es="Pagos sin contacto" fr="paiements sans contact" hu="Érintésmentes fizetések"  />
+	<translation tag="accept_tap" en="Accept tap-to-pay" pt="Aceite pagamentos por aproximação" de="Akzeptieren Sie kontaktloses Bezahlen." es="Aceptamos pagos sin contacto." fr="Acceptez le paiement sans contact" hu="Érintéses fizetés elfogadása"  />
+	<translation tag="bay_reserve" en="Bay reservations" pt="Reservas na baía" de="Buchtreservierungen" es="Reservas de la bahía" fr="Réservations de la baie" hu="Öböl-rezervátumok"  />
+	<translation tag="pre_book" en="Allow drivers to pre-book" pt="Permitir que os motoristas façam reservas antecipadas" de="Ermöglichen Sie es Fahrern, im Voraus zu buchen" es="Permitir que los conductores reserven con antelación." fr="Autoriser les chauffeurs à réserver à l'avance" hu="Engedélyezze a sofőröknek az előzetes foglalást"  />
+	<translation tag="firmware_ver" en="Firmware v3.2.1" pt="Firmware v3.2.1" de="Firmware v3.2.1" es="Firmware v3.2.1" fr="Firmware v3.2.1" hu="Firmware v3.2.1"  />
+	<translation tag="up_to_date" en="· up to date" pt="· atualizado" de="• auf dem neuesten Stand" es="· A hoy" fr="· à jour" hu="· naprakész"  />
+	<translation tag="charging_preferences" en="Charging preferences" pt="Preferências de carregamento" de="Ladeeinstellungen" es="preferencias de carga" fr="préférences de facturation" hu="Töltési beállítások"  />
+	<translation tag="session_name" en="Aurex EX40 · adjust this session" pt="Aurex EX40 · ajustar esta sessão" de="Aurex EX40 · diese Sitzung anpassen" es="Aurex EX40 · ajustar esta sesión" fr="Aurex EX40 · ajuster cette session" hu="Aurex EX40 · módosítsa ezt a munkamenetet"  />
+	<translation tag="charge_limit" en="Charge limit" pt="Limite de cobrança" de="Ladelimit" es="Límite de cargo" fr="Limite de charge" hu="Díjkorlát"  />
+	<translation tag="stop_level" en="Stop when the battery reaches this level" pt="Pare quando a bateria atingir este nível." de="Stoppen Sie, sobald der Akku diesen Ladestand erreicht hat." es="Deténgase cuando la batería alcance este nivel." fr="Arrêtez-vous lorsque la batterie atteint ce niveau." hu="Állj meg, amikor az akkumulátor eléri ezt a szintet"  />
+	<translation tag="off_peak" en="Off-peak only" pt="Somente fora do horário de pico" de="Nur außerhalb der Spitzenzeiten" es="Solo en horas valle" fr="Hors pointe uniquement" hu="Csak csúcsidőn kívül"  />
+	<translation tag="charge_peak" en="Charge during cheaper hours" pt="Carregue durante os horários mais baratos." de="Laden Sie während der günstigeren Stunden." es="Cobrar durante las horas más económicas." fr="Rechargez pendant les heures creuses." hu="Díjszabás olcsóbb órákban"  />
+	<translation tag="notify_done" en="Notify when done" pt="Avise quando terminar" de="Benachrichtigen Sie mich, sobald es erledigt ist." es="Notificar cuando haya terminado" fr="Prévenez-moi quand ce sera fait" hu="Értesítsen, ha kész"  />
+	<translation tag="text_80" en="Text me at 80%" pt="Envie-me uma mensagem quando estiver a 80%" de="Schreib mir eine SMS bei 80%" es="Envíame un mensaje de texto al 80%." fr="Envoie-moi un SMS à 80%" hu="Írj SMS-t 80%-nál"  />
+	<translation tag="save_changes" en="Save changes" pt="Salvar alterações" de="Änderungen speichern" es="Guardar cambios" fr="Enregistrer les modifications" hu="Változtatások mentése"  />
+</translations>

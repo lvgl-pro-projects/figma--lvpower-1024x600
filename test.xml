@@ -1,0 +1,7 @@
+<test>
+	<view extends="complete" />
+	<steps>
+		<wait ms="3000" />
+		<screenshot_compare path="complete.png" />
+	</steps>
+</test>

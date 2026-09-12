@@ -1,0 +1,87 @@
+id	en	pt	de	es	fr	hu
+locale	English	Portuguese	German	Spanish	French	Hungarian
+lvpower	LVPOWER	LVPOWER	LVPOWER	LVPOWER	LVPOWER	LVPOWER
+station	Station	Estação	Station	Estación	Gare	Állomás
+status	Status	Status	Status	Estado	Statut	Állapot
+plugin_start	Plug in, or scan to start	Conecte ou faça uma busca para iniciar.	Anschließen oder scannen, um zu starten	Conéctalo o escanea para comenzar.	Branchez ou scannez pour démarrer	Csatlakoztasd, vagy szkenneld be a kezdéshez
+or_pair	or pair with	ou emparelhar com	oder kombinieren Sie mit	o combinar con	ou associer à	vagy párosítsa
+ready	Ready	Preparar	Bereit	Listo	Prêt	Kész
+tap_or_scan	Tap or Scan	Toque ou escaneie	Tippen oder Scannen	Toca o escanea	Touchez ou scannez	Koppintson vagy szkenneljen
+supercharge	SUPERCHARGE	SUPERCARREGAMENTO	SUPERLADEN	SUPERCARGA	SUPERCHARGE	SZUPERTÖLTÉS
+fast	FAST	RÁPIDO	SCHNELL	RÁPIDO	RAPIDE	GYORS
+basic	BASIC	BÁSICO	BASIC	BÁSICO	BASIQUE	ALAPVETŐ
+connected	Connected	Conectado	Verbunden	Conectado	Connecté	Csatlakoztatva
+start_charging	Start charging	Comece a carregar	Ladevorgang starten	Comienza a cargar	Commencez la charge	Töltés megkezdése
+tap_card	Tap your card on the reader	Aproxime seu cartão do leitor.	Halten Sie Ihre Karte an das Lesegerät.	Acerque su tarjeta al lector.	Approchez votre carte du lecteur	Érintse a kártyáját az olvasóhoz
+accept_terms	I accept the terms	Aceito os termos.	Ich akzeptiere die Bedingungen.	Acepto los términos	J'accepte les conditions	Elfogadom a feltételeket
+cable_connected	Cable connected	Cabo conectado	Kabel angeschlossen	Cable conectado	Câble connecté	Kábel csatlakoztatva
+ccs_150	CCS · up to 150 kW	CCS · até 150 kW	CCS · bis zu 150 kW	CCS · hasta 150 kW	CCS · jusqu'à 150 kW	CCS · akár 150 kW-ig
+authorize_payment	Authorise payment	Autorizar pagamento	Zahlung autorisieren	Autorizar pago	Autoriser le paiement	Fizetés engedélyezése
+charge_150	~150 km in 20 min	Aproximadamente 150 km em 20 minutos	~150 km in 20 Minuten	~150 km en 20 min	~150 km en 20 min	~150 km 20 perc alatt
+charge_80	~80 km in 20 min	~80 km em 20 minutos	~80 km in 20 Minuten	~80 km en 20 min	~80 km en 20 min	~80 km 20 perc alatt
+charge_overnight	Overnight charge	Cobrança noturna	Übernachtgebühr	cargo por pernoctación	Frais de nuit	Éjszakai töltés
+payment	PAYMENT	PAGAMENTO	ZAHLUNG	PAGO	PAIEMENT	FIZETÉS
+welcome_back	Welcome back	bem vindo de volta	Willkommen zurück	Bienvenido de nuevo	Content de te revoir	Üdv ismét
+card_ending	Card ending in ····	Cartão terminando em ····	Karte endet mit ····	Tarjeta que termina en ····	Carte se terminant par ····	····-ra végződő kártya
+time_left	1h 10m left · ready by 12:45	1h 10m restantes · pronto às 12:45	Noch 1 Stunde 10 Minuten · fertig um 12:45 Uhr	Quedan 1 hora y 10 minutos · Listo a las 12:45	Il reste 1 h 10 min · Prêt à 12 h 45	1 óra 10 perc van hátra · 12:45-re kész
+supercharge_80	Supercharging to 80%	Supercarregando para 80%	Aufladung auf 80 %	Supercarga al 80%	Supercharge à 80 %	80%-os feltöltés
+stop_charging	Stop charging	Interrompa o carregamento	Ladevorgang einstellen	Deja de cobrar	Arrêtez la facturation	Töltés leállítása
+power	Power	Poder	Leistung	Fuerza	Pouvoir	Hatalom
+energy	Energy	Energia	Energie	Energía	Énergie	Energia
+range_added	Range added	Alcance adicionado	Reichweite hinzugefügt	Gama añadida	Portée ajoutée	Tartomány hozzáadva
+cost_so_far	Cost so far	Custo até o momento	Bisherige Kosten	Costo hasta ahora	Coût jusqu'à présent	Eddigi költség
+total_cost	Total cost	Custo total	Gesamtkosten	Costo total	Coût total	Teljes költség
+duration	Duration	Duração	Dauer	Duración	Durée	Időtartam
+energy_delivered	Energy delivered	Energia fornecida	Energie geliefert	Energía suministrada	Énergie fournie	Leadott energia
+turbo_complete	Turbocharge complete	Carregamento rápido concluído	Schnellladen abgeschlossen	Carga rápida completada	Recharge rapide terminée	Gyorstöltés befejeződött
+scan_receipt	Scan for receipt	Escaneie o código QR para obter o recibo.	Scannen Sie den Beleg	Escanee para obtener el recibo.	Numérisez pour recevoir	Szkennelés a nyugtáért
+unplug_finish	Unplug to finish	Desconecte para finalizar	Zum Beenden vom Stromnetz trennen.	Desconectar para terminar	Débranchez pour terminer	Húzza ki a konnektorból a befejezéshez
+charged_to_80	Aurex EX40 · charged to 80%	Aurex EX40 · carregado até 80%	Aurex EX40 · auf 80 % geladen	Aurex EX40 · cargado al 80%	Aurex EX40 · chargé à 80 %	Aurex EX40 · 80%-ra feltöltve
+sent_email	Also sent to lvgl@lvgl.io	Também enviado para lvgl@lvgl.io	Ebenfalls gesendet an lvgl@lvgl.io	También se envió a lvgl@lvgl.io	Également envoyé à lvgl@lvgl.io	Elküldve a lvgl@lvgl.io címre is
+asset_tag	ASSET TAG	ETIQUETA DE ATIVO	ASSET-TAG	ETIQUETA DE ACTIVOS	ÉTIQUETTE D'ACTIF	ESZKÖZCÍMKE
+diagnostics	Diagnostics	Diagnóstico	Diagnostik	Diagnóstico	Diagnostic	Diagnosztika
+station_technician	Station L-04 · Technician session	Estação L-04 · Sessão técnica	Station L-04 · Technikersitzung	Estación L-04 · Sesión técnica	Station L-04 · Session technique	L-04 állomás · Technikusi foglalkozás
+safety_interlocks	SAFETY INTERLOCKS	INTERTRAVAMENTOS DE SEGURANÇA	SICHERHEITSVERRIEGELUNGEN	ENCLAVAMIENTOS DE SEGURIDAD	VERROUILLAGES DE SÉCURITÉ	BIZTONSÁGI RETESZEK
+thermals	THERMALS	TÉRMICOS	Wärmelampen	TÉRMICAS	THERMIQUES	TERMALOK
+emergency_stop	Emergency stop released	Parada de emergência liberada	Not-Aus-Schalter gelöst	Se ha liberado la parada de emergencia.	Arrêt d'urgence relâché	Vészleállító kioldva
+enclosure_panel	Enclosure panel closed	Painel de fechamento	Gehäuseklappe geschlossen	Panel de la carcasa cerrado	Panneau du boîtier fermé	Zárt burkolatpanel
+ground_fault	Ground-fault monitor clear	Monitor de falha de aterramento desativado	Erdschlussüberwachung gelöscht	Monitor de falla a tierra vacío	Surveillance des défauts à la terre claire	Földzárlatvédelmi monitor törlése
+cable_lock	Cable lock engaged	Cadeado de cabo acionado	Kabelschloss eingerastet	Bloqueo de cable activado	Verrou de câble activé	Kábelzár be van kapcsolva
+ok	OK	OK	OK	DE ACUERDO	D'ACCORD	RENDBEN
+pending	Pending	Pendente	Ausstehend	Pendiente	En attente	Függőben levő
+cable	Cable	Cabo	Kabel	Cable	Câble	Kábel
+power_stage	Power stage	Estágio de potência	Leistungsstufe	Etapa de potencia	Phase de puissance	Teljesítményfokozat
+service_note	SERVICE NOTE	NOTA DE SERVIÇO	Servicehinweis	NOTA DE SERVICIO	NOTE DE SERVICE	SZERVIZMEGJEGYZÉS
+service_replace	Replaced RFID reader module on bay L-04. Connector lock intermittent - monitoring. Next PM due 2026-08-15.	Substituído o módulo leitor RFID no compartimento L-04. Trava do conector intermitente - em monitoramento. Próxima manutenção preventiva prevista para 15/08/2026.	RFID-Lesegerät in Steckplatz L-04 ausgetauscht. Steckerverriegelung funktioniert zeitweise nicht – wird überwacht. Nächste Wartung fällig am 15.08.2026.	Se sustituyó el módulo lector RFID en la bahía L-04. El bloqueo del conector presenta fallos intermitentes; se está monitorizando. El próximo mantenimiento preventivo está previsto para el 15 de agosto de 2026.	Module lecteur RFID remplacé dans la baie L-04. Verrouillage intermittent du connecteur - surveillance. Prochaine maintenance préventive prévue le 15/08/2026.	RFID olvasó modul csere az L-04-es rekeszben. Csatlakozózár szakaszos - felügyelet. Következő délutáni beküldési határidő: 2026-08-15.
+station_settings	Station settings	Configurações da estação	Stationseinstellungen	Configuración de la estación	Paramètres de la station	Állomásbeállítások
+station_bays	Station L-04 · 6 bays	Estação L-04 · 6 baias	Bahnhof L-04 · 6 Stellplätze	Estación L-04 · 6 bahías	Station L-04 · 6 travées	L-04 állomás · 6 állás
+display_sound	DISPLAY & SOUND	EXIBIÇÃO E SOM	ANZEIGE & TON	PANTALLA Y SONIDO	AFFICHAGE ET SON	KIJELZŐ ÉS HANG
+screen_brightness	Screen brightness	Brilho da tela	Bildschirmhelligkeit	brillo de la pantalla	Luminosité de l'écran	Képernyő fényereje
+alert_volume	Alert volume	Volume de alerta	Alarmlautstärke	Volumen de alerta	Volume d'alerte	Riasztás hangereje
+animations	Animations	Animações	Animationen	Animaciones	Animations	Animációk
+enable_transitions	Enable transitions	Ativar transições	Übergänge aktivieren	Habilitar transiciones	Activer les transitions	Átmenetek engedélyezése
+language	LANGUAGE	LINGUAGEM	SPRACHE	IDIOMA	LANGUE	NYELV
+network_access	NETWORK & ACCESS	REDE E ACESSO	NETZWERK & ZUGANG	RED Y ACCESO	RÉSEAU ET ACCÈS	HÁLÓZAT ÉS HOZZÁFÉRÉS
+wifi	Wi-Fi	Wi-fi	W-lan	Wi-Fi	Wi-Fi	Wi-Fi
+scan_docs	Scan for maintenance docs	Digitalize para obter documentos de manutenção.	Nach Wartungsdokumenten suchen	Escanee en busca de documentos de mantenimiento.	Rechercher les documents de maintenance	Karbantartási dokumentációk beolvasása
+wifi_state	Levland-Ops · connected	Levland-Ops · conectado	Levland-Ops · verbunden	Levland-Ops · conectado	Levland-Ops · connecté	Levland-Ops · csatlakoztatva
+contactless_payments	Contactless payments	pagamentos sem contato	Kontaktloses Bezahlen	Pagos sin contacto	paiements sans contact	Érintésmentes fizetések
+accept_tap	Accept tap-to-pay	Aceite pagamentos por aproximação	Akzeptieren Sie kontaktloses Bezahlen.	Aceptamos pagos sin contacto.	Acceptez le paiement sans contact	Érintéses fizetés elfogadása
+bay_reserve	Bay reservations	Reservas na baía	Buchtreservierungen	Reservas de la bahía	Réservations de la baie	Öböl-rezervátumok
+pre_book	Allow drivers to pre-book	Permitir que os motoristas façam reservas antecipadas	Ermöglichen Sie es Fahrern, im Voraus zu buchen	Permitir que los conductores reserven con antelación.	Autoriser les chauffeurs à réserver à l'avance	Engedélyezze a sofőröknek az előzetes foglalást
+firmware_ver	Firmware v3.2.1	Firmware v3.2.1	Firmware v3.2.1	Firmware v3.2.1	Firmware v3.2.1	Firmware v3.2.1
+up_to_date	· up to date	· atualizado	• auf dem neuesten Stand	· A hoy	· à jour	· naprakész
+charging_preferences	Charging preferences	Preferências de carregamento	Ladeeinstellungen	preferencias de carga	préférences de facturation	Töltési beállítások
+session_name	Aurex EX40 · adjust this session	Aurex EX40 · ajustar esta sessão	Aurex EX40 · diese Sitzung anpassen	Aurex EX40 · ajustar esta sesión	Aurex EX40 · ajuster cette session	Aurex EX40 · módosítsa ezt a munkamenetet
+charge_limit	Charge limit	Limite de cobrança	Ladelimit	Límite de cargo	Limite de charge	Díjkorlát
+stop_level	Stop when the battery reaches this level	Pare quando a bateria atingir este nível.	Stoppen Sie, sobald der Akku diesen Ladestand erreicht hat.	Deténgase cuando la batería alcance este nivel.	Arrêtez-vous lorsque la batterie atteint ce niveau.	Állj meg, amikor az akkumulátor eléri ezt a szintet
+off_peak	Off-peak only	Somente fora do horário de pico	Nur außerhalb der Spitzenzeiten	Solo en horas valle	Hors pointe uniquement	Csak csúcsidőn kívül
+charge_peak	Charge during cheaper hours	Carregue durante os horários mais baratos.	Laden Sie während der günstigeren Stunden.	Cobrar durante las horas más económicas.	Rechargez pendant les heures creuses.	Díjszabás olcsóbb órákban
+notify_done	Notify when done	Avise quando terminar	Benachrichtigen Sie mich, sobald es erledigt ist.	Notificar cuando haya terminado	Prévenez-moi quand ce sera fait	Értesítsen, ha kész
+text_80	Text me at 80%	Envie-me uma mensagem quando estiver a 80%	Schreib mir eine SMS bei 80%	Envíame un mensaje de texto al 80%.	Envoie-moi un SMS à 80%	Írj SMS-t 80%-nál
+save_changes	Save changes	Salvar alterações	Änderungen speichern	Guardar cambios	Enregistrer les modifications	Változtatások mentése
+		#VALUE!	#VALUE!	#VALUE!	#VALUE!	#VALUE!
+		#VALUE!	#VALUE!	#VALUE!	#VALUE!	#VALUE!
+		#VALUE!	#VALUE!	#VALUE!	#VALUE!	#VALUE!
+						
+formula	Formula	Fórmula	Formel	Fórmula	Formule	Képlet
