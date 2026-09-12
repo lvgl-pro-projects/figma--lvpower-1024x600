@@ -13,7 +13,7 @@ https://viewer.lvgl.io/?repo=https://github.com/lvgl-pro-projects/figma--lvpower
 
 Or a live view:
 
-https://htmlpreview.github.io/?https://github.com/lvgl-pro-projects/figma--lvpower-1024x600/blob/main/preview-bin/web/lvpower.html
+https://htmlpreview.github.io/?https://github.com/lvgl-pro-projects/figma--lvpower-1024x600/blob/main/preview-bin/web/index.html
 
 ## Screenshots
 
